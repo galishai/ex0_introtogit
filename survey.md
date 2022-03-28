@@ -1,4 +1,4 @@
-Favorite color: Blue
+Favorite color: Red
 Favorite food: Sushi
 Favorite musician/band: Yb
 Favorite movie: Fight Club
